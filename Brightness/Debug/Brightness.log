@@ -1,0 +1,23 @@
+﻿  Brightness.cpp
+  dllmain.cpp
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(9,31): warning C4100: 'lpReserved': unreferenced formal parameter
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(7,32): warning C4100: 'hModule': unreferenced formal parameter
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(92,46): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(93,50): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(94,48): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(106,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(107,17): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(111,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(112,19): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(116,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(117,18): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(133,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(134,17): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(138,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(139,19): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(143,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(144,18): warning C4244: '=': conversion from 'int' to 'BYTE', possible loss of data
+C:\Users\Алехандро\Desktop\AlexProjects\Brightness\dllmain.cpp(126,75): warning C4100: 'SecondValue': unreferenced formal parameter
+  Generating Code...
+     Creating library C:\Users\Алехандро\Desktop\AlexProjects\Brightness\Debug\Brightness.lib and object C:\Users\Алехандро\Desktop\AlexProjects\Brightness\Debug\Brightness.exp
+  Brightness.vcxproj -> C:\Users\Алехандро\Desktop\AlexProjects\Brightness\Debug\Brightness.dll
